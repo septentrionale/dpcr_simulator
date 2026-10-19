@@ -1,0 +1,6 @@
+AI Disclosure
+
+The functional components of this code are entirely human written. However, AI (ChatGPT 5.6) was used to review the code for any possible catastrophic
+failure modes, typoes, and misuses of scientific convention or vocabulary, and was asked to add print statements to improve the user experience. It added 
+Lines 281-82 and 291-93, as well as 183-84, and 243-44. It also corrected a typo and suggested a sign & variable name change to how relative error was calculated,
+both of which were incorporated. 
